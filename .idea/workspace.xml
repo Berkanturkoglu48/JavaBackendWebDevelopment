@@ -7,9 +7,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aa1d206c-86e7-47d6-bae4-2851910e9735" name="Changes" comment="Mini ödev eklendi . (Etkinlik Önerme)">
-      <change afterPath="$PROJECT_DIR$/src/Java101/NotOrtalamasi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java101/SinifiGecmeDurumu.java" afterDir="false" />
+    <list default="true" id="aa1d206c-86e7-47d6-bae4-2851910e9735" name="Changes" comment="Mini ödev eklendi . (Küçükten Büyüğe Sıralama)">
+      <change afterPath="$PROJECT_DIR$/src/Java101/BurcBulmaProgrami.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -164,7 +163,21 @@
       <option name="project" value="LOCAL" />
       <updated>1699983387182</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="2 Mini ödev eklendi . (Not Ortalaması , Sınıf Geçme Durumu)">
+      <created>1699983803053</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1699983803053</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Mini ödev eklendi . (Küçükten Büyüğe Sıralama)">
+      <created>1699983986055</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1699983986055</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -179,6 +192,8 @@
     <MESSAGE value="Mini ödev eklendi . (Switch Case Basit Hesap Makinesi)" />
     <MESSAGE value="Mini ödev eklendi . (Kullanıcı Girişi)" />
     <MESSAGE value="Mini ödev eklendi . (Etkinlik Önerme)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Mini ödev eklendi . (Etkinlik Önerme)" />
+    <MESSAGE value="2 Mini ödev eklendi . (Not Ortalaması , Sınıf Geçme Durumu)" />
+    <MESSAGE value="Mini ödev eklendi . (Küçükten Büyüğe Sıralama)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Mini ödev eklendi . (Küçükten Büyüğe Sıralama)" />
   </component>
 </project>
