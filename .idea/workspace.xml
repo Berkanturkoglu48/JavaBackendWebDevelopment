@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aa1d206c-86e7-47d6-bae4-2851910e9735" name="Changes" comment="Mini ödev eklendi . (Not Ortalaması Hesaplama)">
-      <change afterPath="$PROJECT_DIR$/src/Java101/KdvMiktariHesaplama.java" afterDir="false" />
+    <list default="true" id="aa1d206c-86e7-47d6-bae4-2851910e9735" name="Changes" comment="Mini ödev eklendi . (Kdv Miktarı Hesaplama)">
+      <change afterPath="$PROJECT_DIR$/src/Java101/KenarUzunluklariVerilenUcgeninAlaniniBulma.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -94,12 +94,20 @@
       <option name="project" value="LOCAL" />
       <updated>1699962026172</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Mini ödev eklendi . (Kdv Miktarı Hesaplama)">
+      <created>1699965325291</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1699965325291</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Proje oluşturuldu" />
     <MESSAGE value="Mini ödev eklendi . (Not Ortalaması Hesaplama)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Mini ödev eklendi . (Not Ortalaması Hesaplama)" />
+    <MESSAGE value="Mini ödev eklendi . (Kdv Miktarı Hesaplama)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Mini ödev eklendi . (Kdv Miktarı Hesaplama)" />
   </component>
 </project>
