@@ -7,8 +7,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aa1d206c-86e7-47d6-bae4-2851910e9735" name="Changes" comment="Mini ödev eklendi . (Manav Kasa)">
-      <change afterPath="$PROJECT_DIR$/src/Java101/HesapMakinesi.java" afterDir="false" />
+    <list default="true" id="aa1d206c-86e7-47d6-bae4-2851910e9735" name="Changes" comment="Mini ödev eklendi . (Switch Case Basit Hesap Makinesi)">
+      <change afterPath="$PROJECT_DIR$/src/Java101/KullaniciGirisi.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
     </list>
@@ -143,7 +143,14 @@
       <option name="project" value="LOCAL" />
       <updated>1699970420830</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Mini ödev eklendi . (Switch Case Basit Hesap Makinesi)">
+      <created>1699975806440</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1699975806440</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -155,6 +162,7 @@
     <MESSAGE value="Mini ödev eklendi . (Yarı çap ve merkez açı ölçüsü kullanarak daire alanı hesaplama)" />
     <MESSAGE value="Mini ödev eklendi . (Vücut Kitle Endeksi Hesaplama)" />
     <MESSAGE value="Mini ödev eklendi . (Manav Kasa)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Mini ödev eklendi . (Manav Kasa)" />
+    <MESSAGE value="Mini ödev eklendi . (Switch Case Basit Hesap Makinesi)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Mini ödev eklendi . (Switch Case Basit Hesap Makinesi)" />
   </component>
 </project>
