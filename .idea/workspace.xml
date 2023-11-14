@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aa1d206c-86e7-47d6-bae4-2851910e9735" name="Changes" comment="Mini ödev eklendi . (TAKSİMETRE UYGULAMASI)">
-      <change afterPath="$PROJECT_DIR$/src/Java101/YariCapVeMerkezAciOlcusuIleDaireAlanHesabi.java" afterDir="false" />
+    <list default="true" id="aa1d206c-86e7-47d6-bae4-2851910e9735" name="Changes" comment="Mini ödev eklendi . (Yarı çap ve merkez açı ölçüsü kullanarak daire alanı hesaplama)">
+      <change afterPath="$PROJECT_DIR$/src/Java101/VucutKitleIndexiHesaplama.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,7 +114,14 @@
       <option name="project" value="LOCAL" />
       <updated>1699968672540</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Mini ödev eklendi . (Yarı çap ve merkez açı ölçüsü kullanarak daire alanı hesaplama)">
+      <created>1699969320155</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1699969320155</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -123,6 +130,7 @@
     <MESSAGE value="Mini ödev eklendi . (Kdv Miktarı Hesaplama)" />
     <MESSAGE value="Mini ödev eklendi . (Kenar Uzunlukları Verilen Üçgenin Alanını Hesaplama)" />
     <MESSAGE value="Mini ödev eklendi . (TAKSİMETRE UYGULAMASI)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Mini ödev eklendi . (TAKSİMETRE UYGULAMASI)" />
+    <MESSAGE value="Mini ödev eklendi . (Yarı çap ve merkez açı ölçüsü kullanarak daire alanı hesaplama)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Mini ödev eklendi . (Yarı çap ve merkez açı ölçüsü kullanarak daire alanı hesaplama)" />
   </component>
 </project>
