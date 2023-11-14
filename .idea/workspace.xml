@@ -7,8 +7,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aa1d206c-86e7-47d6-bae4-2851910e9735" name="Changes" comment="Mini ödev eklendi . (Küçükten Büyüğe Sıralama)">
-      <change afterPath="$PROJECT_DIR$/src/Java101/BurcBulmaProgrami.java" afterDir="false" />
+    <list default="true" id="aa1d206c-86e7-47d6-bae4-2851910e9735" name="Changes" comment="Mini ödev eklendi . (Burç Bulma Programı)">
+      <change afterPath="$PROJECT_DIR$/src/Java101/UcakBiletiFiyatHesaplama.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -177,7 +177,14 @@
       <option name="project" value="LOCAL" />
       <updated>1699983986055</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Mini ödev eklendi . (Burç Bulma Programı)">
+      <created>1699984204326</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1699984204326</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -194,6 +201,7 @@
     <MESSAGE value="Mini ödev eklendi . (Etkinlik Önerme)" />
     <MESSAGE value="2 Mini ödev eklendi . (Not Ortalaması , Sınıf Geçme Durumu)" />
     <MESSAGE value="Mini ödev eklendi . (Küçükten Büyüğe Sıralama)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Mini ödev eklendi . (Küçükten Büyüğe Sıralama)" />
+    <MESSAGE value="Mini ödev eklendi . (Burç Bulma Programı)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Mini ödev eklendi . (Burç Bulma Programı)" />
   </component>
 </project>
