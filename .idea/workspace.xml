@@ -7,8 +7,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aa1d206c-86e7-47d6-bae4-2851910e9735" name="Changes" comment="Mini ödev eklendi . (Girilen Sayıya Kadar 4 ve 5 in Kuvvetleri)">
-      <change afterPath="$PROJECT_DIR$/src/Java101/KombinasyonFormulu.java" afterDir="false" />
+    <list default="true" id="aa1d206c-86e7-47d6-bae4-2851910e9735" name="Changes" comment="Mini ödev eklendi . (Üslü SAyı Hesaplama)">
+      <change afterPath="$PROJECT_DIR$/src/Java101/ArmstrongSayisiBulma.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -233,7 +233,21 @@
       <option name="project" value="LOCAL" />
       <updated>1700034376483</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Mini ödev eklendi . (Kombinasyon Formülü)">
+      <created>1700035065138</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1700035065138</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Mini ödev eklendi . (Üslü SAyı Hesaplama)">
+      <created>1700035297950</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1700035297950</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -258,6 +272,8 @@
     <MESSAGE value="Mini ödev eklendi . (Çift ve Dördün Katı Olan Sayıların Toplamı)" />
     <MESSAGE value="Mini ödev eklendi . (Girilen Sayıya Kadar 4)" />
     <MESSAGE value="Mini ödev eklendi . (Girilen Sayıya Kadar 4 ve 5 in Kuvvetleri)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Mini ödev eklendi . (Girilen Sayıya Kadar 4 ve 5 in Kuvvetleri)" />
+    <MESSAGE value="Mini ödev eklendi . (Kombinasyon Formülü)" />
+    <MESSAGE value="Mini ödev eklendi . (Üslü SAyı Hesaplama)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Mini ödev eklendi . (Üslü SAyı Hesaplama)" />
   </component>
 </project>
