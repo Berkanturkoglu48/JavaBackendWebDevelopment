@@ -7,9 +7,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aa1d206c-86e7-47d6-bae4-2851910e9735" name="Changes" comment="Mini ödev eklendi . (Üslü SAyı Hesaplama)">
-      <change afterPath="$PROJECT_DIR$/src/Java101/ArmstrongSayisiBulma.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="aa1d206c-86e7-47d6-bae4-2851910e9735" name="Changes" comment="Mini ödev eklendi . (Armstrong Sayısı Olup Olmadığını Kontrol Etme)">
+      <change afterPath="$PROJECT_DIR$/src/Java101/BasamakSayilerininToplaminiHesaplama.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -247,7 +246,14 @@
       <option name="project" value="LOCAL" />
       <updated>1700035297950</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Mini ödev eklendi . (Armstrong Sayısı Olup Olmadığını Kontrol Etme)">
+      <created>1700037888647</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1700037888647</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -274,6 +280,7 @@
     <MESSAGE value="Mini ödev eklendi . (Girilen Sayıya Kadar 4 ve 5 in Kuvvetleri)" />
     <MESSAGE value="Mini ödev eklendi . (Kombinasyon Formülü)" />
     <MESSAGE value="Mini ödev eklendi . (Üslü SAyı Hesaplama)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Mini ödev eklendi . (Üslü SAyı Hesaplama)" />
+    <MESSAGE value="Mini ödev eklendi . (Armstrong Sayısı Olup Olmadığını Kontrol Etme)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Mini ödev eklendi . (Armstrong Sayısı Olup Olmadığını Kontrol Etme)" />
   </component>
 </project>
