@@ -7,8 +7,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aa1d206c-86e7-47d6-bae4-2851910e9735" name="Changes" comment="Mini ödev eklendi . (Harmonik Sayı Hesabı)">
-      <change afterPath="$PROJECT_DIR$/src/Java101/YildizlarlaElmasYapma.java" afterDir="false" />
+    <list default="true" id="aa1d206c-86e7-47d6-bae4-2851910e9735" name="Changes" comment="Mini ödev eklendi . (Switch Case ATM Uygulaması)">
+      <change afterPath="$PROJECT_DIR$/src/Java101/PalindromeKontrol.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java101/SwitchCaseAtmUygulamasi.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
     </list>
@@ -269,12 +270,17 @@
       <option name="project" value="LOCAL" />
       <updated>1700038770041</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Mini ödev eklendi . (Yıldızlarla Elmas Yapma)">
+      <created>1700042222273</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1700042222273</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Mini ödev eklendi . (Not Ortalaması Hesaplama)" />
-    <MESSAGE value="Mini ödev eklendi . (Kdv Miktarı Hesaplama)" />
     <MESSAGE value="Mini ödev eklendi . (Kenar Uzunlukları Verilen Üçgenin Alanını Hesaplama)" />
     <MESSAGE value="Mini ödev eklendi . (TAKSİMETRE UYGULAMASI)" />
     <MESSAGE value="Mini ödev eklendi . (Yarı çap ve merkez açı ölçüsü kullanarak daire alanı hesaplama)" />
@@ -298,6 +304,8 @@
     <MESSAGE value="Mini ödev eklendi . (Armstrong Sayısı Olup Olmadığını Kontrol Etme)" />
     <MESSAGE value="Mini ödev eklendi . (Basamak Sayılarının Toplamını Hesaplama)" />
     <MESSAGE value="Mini ödev eklendi . (Harmonik Sayı Hesabı)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Mini ödev eklendi . (Harmonik Sayı Hesabı)" />
+    <MESSAGE value="Mini ödev eklendi . (Yıldızlarla Elmas Yapma)" />
+    <MESSAGE value="Mini ödev eklendi . (Switch Case ATM Uygulaması)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Mini ödev eklendi . (Switch Case ATM Uygulaması)" />
   </component>
 </project>
