@@ -7,9 +7,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aa1d206c-86e7-47d6-bae4-2851910e9735" name="Changes" comment="Mini ödev eklendi . (Artık Yıl Hesaplama)">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
+    <list default="true" id="aa1d206c-86e7-47d6-bae4-2851910e9735" name="Changes" comment="Mini ödev eklendi . (3 ve 4 e Bölünenlerin Hesaplanması)">
+      <change afterPath="$PROJECT_DIR$/src/Java101/CiftVeDordunKatiOlanSayilarinToplami.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,12 +42,12 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Test" />
@@ -205,7 +204,14 @@
       <option name="project" value="LOCAL" />
       <updated>1699985029929</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Mini ödev eklendi . (3 ve 4 e Bölünenlerin Hesaplanması)">
+      <created>1700033787450</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1700033787450</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -226,6 +232,7 @@
     <MESSAGE value="Mini ödev eklendi . (Uçak Bileti Fiyatı Hesaplama)" />
     <MESSAGE value="Mini ödev eklendi . (Çin Zodyağı Hesaplama)" />
     <MESSAGE value="Mini ödev eklendi . (Artık Yıl Hesaplama)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Mini ödev eklendi . (Artık Yıl Hesaplama)" />
+    <MESSAGE value="Mini ödev eklendi . (3 ve 4 e Bölünenlerin Hesaplanması)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Mini ödev eklendi . (3 ve 4 e Bölünenlerin Hesaplanması)" />
   </component>
 </project>
