@@ -16,7 +16,5 @@ public class DortVeBesinKuvvetleri {
             System.out.println(i + " " + j);
         }
 
-
-
     }
 }
