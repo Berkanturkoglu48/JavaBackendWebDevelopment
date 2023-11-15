@@ -7,8 +7,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aa1d206c-86e7-47d6-bae4-2851910e9735" name="Changes" comment="Mini ödev eklendi . (Burç Bulma Programı)">
-      <change afterPath="$PROJECT_DIR$/src/Java101/UcakBiletiFiyatHesaplama.java" afterDir="false" />
+    <list default="true" id="aa1d206c-86e7-47d6-bae4-2851910e9735" name="Changes" comment="Mini ödev eklendi . (Artık Yıl Hesaplama)">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -184,7 +184,28 @@
       <option name="project" value="LOCAL" />
       <updated>1699984204326</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Mini ödev eklendi . (Uçak Bileti Fiyatı Hesaplama)">
+      <created>1699984512640</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1699984512641</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Mini ödev eklendi . (Çin Zodyağı Hesaplama)">
+      <created>1699984746732</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1699984746732</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Mini ödev eklendi . (Artık Yıl Hesaplama)">
+      <created>1699985029929</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1699985029929</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -202,6 +223,9 @@
     <MESSAGE value="2 Mini ödev eklendi . (Not Ortalaması , Sınıf Geçme Durumu)" />
     <MESSAGE value="Mini ödev eklendi . (Küçükten Büyüğe Sıralama)" />
     <MESSAGE value="Mini ödev eklendi . (Burç Bulma Programı)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Mini ödev eklendi . (Burç Bulma Programı)" />
+    <MESSAGE value="Mini ödev eklendi . (Uçak Bileti Fiyatı Hesaplama)" />
+    <MESSAGE value="Mini ödev eklendi . (Çin Zodyağı Hesaplama)" />
+    <MESSAGE value="Mini ödev eklendi . (Artık Yıl Hesaplama)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Mini ödev eklendi . (Artık Yıl Hesaplama)" />
   </component>
 </project>
