@@ -7,8 +7,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aa1d206c-86e7-47d6-bae4-2851910e9735" name="Changes" comment="Mini ödev eklendi . (Recursive Fonksiyon Yardımıyla Fibonacci Serisi)">
-      <change afterPath="$PROJECT_DIR$/src/Java101/GelismisHesapMakinesi.java" afterDir="false" />
+    <list default="true" id="aa1d206c-86e7-47d6-bae4-2851910e9735" name="Changes" comment="Mini ödev eklendi . (Gelişmiş Hesap Makinesi)">
+      <change afterPath="$PROJECT_DIR$/src/Java101/RecursiveMetodIleUsluSayiHesabi.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Java101/SwitchCaseAtmUygulamasi.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
@@ -291,11 +291,17 @@
       <option name="project" value="LOCAL" />
       <updated>1700071982275</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="Mini ödev eklendi . (Gelişmiş Hesap Makinesi)">
+      <created>1700076421598</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1700076421598</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Mini ödev eklendi . (Yarı çap ve merkez açı ölçüsü kullanarak daire alanı hesaplama)" />
     <MESSAGE value="Mini ödev eklendi . (Vücut Kitle Endeksi Hesaplama)" />
     <MESSAGE value="Mini ödev eklendi . (Manav Kasa)" />
     <MESSAGE value="Mini ödev eklendi . (Switch Case Basit Hesap Makinesi)" />
@@ -320,6 +326,7 @@
     <MESSAGE value="Mini ödev eklendi . (Switch Case ATM Uygulaması)" />
     <MESSAGE value="Mini ödev eklendi . (Palindrom Sayı Kontrolü)" />
     <MESSAGE value="Mini ödev eklendi . (Recursive Fonksiyon Yardımıyla Fibonacci Serisi)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Mini ödev eklendi . (Recursive Fonksiyon Yardımıyla Fibonacci Serisi)" />
+    <MESSAGE value="Mini ödev eklendi . (Gelişmiş Hesap Makinesi)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Mini ödev eklendi . (Gelişmiş Hesap Makinesi)" />
   </component>
 </project>
