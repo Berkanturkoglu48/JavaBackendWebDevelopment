@@ -7,8 +7,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aa1d206c-86e7-47d6-bae4-2851910e9735" name="Changes" comment="Mini ödev eklendi . (3 ve 4 e Bölünenlerin Hesaplanması)">
-      <change afterPath="$PROJECT_DIR$/src/Java101/CiftVeDordunKatiOlanSayilarinToplami.java" afterDir="false" />
+    <list default="true" id="aa1d206c-86e7-47d6-bae4-2851910e9735" name="Changes" comment="Mini ödev eklendi . (Girilen Sayıya Kadar 4 ve 5 in Kuvvetleri)">
+      <change afterPath="$PROJECT_DIR$/src/Java101/KombinasyonFormulu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -211,7 +212,28 @@
       <option name="project" value="LOCAL" />
       <updated>1700033787450</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Mini ödev eklendi . (Çift ve Dördün Katı Olan Sayıların Toplamı)">
+      <created>1700034002476</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1700034002476</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Mini ödev eklendi . (Girilen Sayıya Kadar 4)">
+      <created>1700034342162</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1700034342162</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Mini ödev eklendi . (Girilen Sayıya Kadar 4 ve 5 in Kuvvetleri)">
+      <created>1700034376483</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1700034376483</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -233,6 +255,9 @@
     <MESSAGE value="Mini ödev eklendi . (Çin Zodyağı Hesaplama)" />
     <MESSAGE value="Mini ödev eklendi . (Artık Yıl Hesaplama)" />
     <MESSAGE value="Mini ödev eklendi . (3 ve 4 e Bölünenlerin Hesaplanması)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Mini ödev eklendi . (3 ve 4 e Bölünenlerin Hesaplanması)" />
+    <MESSAGE value="Mini ödev eklendi . (Çift ve Dördün Katı Olan Sayıların Toplamı)" />
+    <MESSAGE value="Mini ödev eklendi . (Girilen Sayıya Kadar 4)" />
+    <MESSAGE value="Mini ödev eklendi . (Girilen Sayıya Kadar 4 ve 5 in Kuvvetleri)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Mini ödev eklendi . (Girilen Sayıya Kadar 4 ve 5 in Kuvvetleri)" />
   </component>
 </project>
