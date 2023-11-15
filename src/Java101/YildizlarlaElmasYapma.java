@@ -1,7 +1,7 @@
-
+package Java101;
 import java.util.Scanner;
 
-public class Test {
+public class YildizlarlaElmasYapma {
     public static void main(String[] args) {
         int basamakSayisi;
 
