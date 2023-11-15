@@ -7,8 +7,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aa1d206c-86e7-47d6-bae4-2851910e9735" name="Changes" comment="Mini ödev eklendi . (Armstrong Sayısı Olup Olmadığını Kontrol Etme)">
-      <change afterPath="$PROJECT_DIR$/src/Java101/BasamakSayilerininToplaminiHesaplama.java" afterDir="false" />
+    <list default="true" id="aa1d206c-86e7-47d6-bae4-2851910e9735" name="Changes" comment="Mini ödev eklendi . (Basamak Sayılarının Toplamını Hesaplama)">
+      <change afterPath="$PROJECT_DIR$/src/Java101/HarmonikSayilariBulma.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -253,7 +253,14 @@
       <option name="project" value="LOCAL" />
       <updated>1700037888647</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Mini ödev eklendi . (Basamak Sayılarının Toplamını Hesaplama)">
+      <created>1700038389204</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1700038389204</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -281,6 +288,7 @@
     <MESSAGE value="Mini ödev eklendi . (Kombinasyon Formülü)" />
     <MESSAGE value="Mini ödev eklendi . (Üslü SAyı Hesaplama)" />
     <MESSAGE value="Mini ödev eklendi . (Armstrong Sayısı Olup Olmadığını Kontrol Etme)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Mini ödev eklendi . (Armstrong Sayısı Olup Olmadığını Kontrol Etme)" />
+    <MESSAGE value="Mini ödev eklendi . (Basamak Sayılarının Toplamını Hesaplama)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Mini ödev eklendi . (Basamak Sayılarının Toplamını Hesaplama)" />
   </component>
 </project>
