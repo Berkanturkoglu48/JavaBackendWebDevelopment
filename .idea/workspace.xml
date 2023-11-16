@@ -7,8 +7,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aa1d206c-86e7-47d6-bae4-2851910e9735" name="Changes" comment="Mini ödev eklendi . (Recursive Metod ile Asal Sayı Kontrolü)">
-      <change afterPath="$PROJECT_DIR$/src/Java101/DeseneGoreMetodOlusturma.java" afterDir="false" />
+    <list default="true" id="aa1d206c-86e7-47d6-bae4-2851910e9735" name="Changes" comment="Mini ödev eklendi . (Desene Göre Metod Oluşyturma)">
+      <change afterPath="$PROJECT_DIR$/src/Java101/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java101/OgrenciBilgiSistemi/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java101/OgrenciBilgiSistemi/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java101/OgrenciBilgiSistemi/Teacher.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Java101/SwitchCaseAtmUygulamasi.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
@@ -33,11 +36,11 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -325,11 +328,17 @@
       <option name="project" value="LOCAL" />
       <updated>1700080257625</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="Mini ödev eklendi . (Desene Göre Metod Oluşyturma)">
+      <created>1700083263549</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1700083263549</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Mini ödev eklendi . (Switch Case Basit Hesap Makinesi)" />
     <MESSAGE value="Mini ödev eklendi . (Kullanıcı Girişi)" />
     <MESSAGE value="Mini ödev eklendi . (Etkinlik Önerme)" />
     <MESSAGE value="2 Mini ödev eklendi . (Not Ortalaması , Sınıf Geçme Durumu)" />
@@ -354,6 +363,7 @@
     <MESSAGE value="Mini ödev eklendi . (Gelişmiş Hesap Makinesi)" />
     <MESSAGE value="Mini ödev eklendi . (Recursive Metod ile Üslü Sayı Hesabı)" />
     <MESSAGE value="Mini ödev eklendi . (Recursive Metod ile Asal Sayı Kontrolü)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Mini ödev eklendi . (Recursive Metod ile Asal Sayı Kontrolü)" />
+    <MESSAGE value="Mini ödev eklendi . (Desene Göre Metod Oluşyturma)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Mini ödev eklendi . (Desene Göre Metod Oluşyturma)" />
   </component>
 </project>
