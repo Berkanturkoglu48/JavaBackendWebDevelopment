@@ -7,14 +7,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aa1d206c-86e7-47d6-bae4-2851910e9735" name="Changes" comment="Mini ödev eklendi . (Desene Göre Metod Oluşyturma)">
+    <list default="true" id="aa1d206c-86e7-47d6-bae4-2851910e9735" name="Changes" comment="Pratik - Öğrenci Bilgi Sistemine ekleme yapıldı.">
+      <change afterPath="$PROJECT_DIR$/src/Java101/BoksMaci/Fighter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java101/BoksMaci/Match.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java101/BoksMaci/Test.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Java101/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java101/OgrenciBilgiSistemi/Course.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java101/OgrenciBilgiSistemi/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java101/OgrenciBilgiSistemi/Teacher.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Java101/SwitchCaseAtmUygulamasi.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -335,12 +334,24 @@
       <option name="project" value="LOCAL" />
       <updated>1700083263549</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="Pratik - Öğrenci Bilgi Sistemi">
+      <created>1700162300564</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1700162300564</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Pratik - Öğrenci Bilgi Sistemine ekleme yapıldı.">
+      <created>1700162418090</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1700162418090</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Mini ödev eklendi . (Kullanıcı Girişi)" />
-    <MESSAGE value="Mini ödev eklendi . (Etkinlik Önerme)" />
     <MESSAGE value="2 Mini ödev eklendi . (Not Ortalaması , Sınıf Geçme Durumu)" />
     <MESSAGE value="Mini ödev eklendi . (Küçükten Büyüğe Sıralama)" />
     <MESSAGE value="Mini ödev eklendi . (Burç Bulma Programı)" />
@@ -364,6 +375,8 @@
     <MESSAGE value="Mini ödev eklendi . (Recursive Metod ile Üslü Sayı Hesabı)" />
     <MESSAGE value="Mini ödev eklendi . (Recursive Metod ile Asal Sayı Kontrolü)" />
     <MESSAGE value="Mini ödev eklendi . (Desene Göre Metod Oluşyturma)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Mini ödev eklendi . (Desene Göre Metod Oluşyturma)" />
+    <MESSAGE value="Pratik - Öğrenci Bilgi Sistemi" />
+    <MESSAGE value="Pratik - Öğrenci Bilgi Sistemine ekleme yapıldı." />
+    <option name="LAST_COMMIT_MESSAGE" value="Pratik - Öğrenci Bilgi Sistemine ekleme yapıldı." />
   </component>
 </project>
