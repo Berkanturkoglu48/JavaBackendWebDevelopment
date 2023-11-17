@@ -19,7 +19,7 @@ public class GirilenSayiyaEnYakinBuyukKucukSayilar {
         for(int eleman: list){
             if(eleman > number){
                 max = eleman;
-                //listemiz sıralı olduğu için kullanıcıdan aldığımız sayıdan ilk büyük satıdan sonra break komutunu koymalıyız
+                //listemiz sıralı olduğu için kullanıcıdan aldığımız sayıdan ilk büyük sayıdan sonra break komutunu koymalıyız
                 break;
             }
         }
