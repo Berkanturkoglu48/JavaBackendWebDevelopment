@@ -7,12 +7,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aa1d206c-86e7-47d6-bae4-2851910e9735" name="Changes" comment="Pratik - BOKS MAÇI">
+    <list default="true" id="aa1d206c-86e7-47d6-bae4-2851910e9735" name="Changes" comment="Ödev - Maaş Hesaplayıcı">
       <change afterPath="$PROJECT_DIR$/src/Java101/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java101/MaasHesaplayici/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java101/MaasHesaplayici/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java101/HarmonikOrtalama.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Java101/SwitchCaseAtmUygulamasi.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -354,11 +354,17 @@
       <option name="project" value="LOCAL" />
       <updated>1700170564061</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="Ödev - Maaş Hesaplayıcı">
+      <created>1700205171030</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1700205171030</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Mini ödev eklendi . (Küçükten Büyüğe Sıralama)" />
     <MESSAGE value="Mini ödev eklendi . (Burç Bulma Programı)" />
     <MESSAGE value="Mini ödev eklendi . (Uçak Bileti Fiyatı Hesaplama)" />
     <MESSAGE value="Mini ödev eklendi . (Çin Zodyağı Hesaplama)" />
@@ -383,6 +389,7 @@
     <MESSAGE value="Pratik - Öğrenci Bilgi Sistemi" />
     <MESSAGE value="Pratik - Öğrenci Bilgi Sistemine ekleme yapıldı." />
     <MESSAGE value="Pratik - BOKS MAÇI" />
-    <option name="LAST_COMMIT_MESSAGE" value="Pratik - BOKS MAÇI" />
+    <MESSAGE value="Ödev - Maaş Hesaplayıcı" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ödev - Maaş Hesaplayıcı" />
   </component>
 </project>
