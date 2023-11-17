@@ -7,10 +7,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aa1d206c-86e7-47d6-bae4-2851910e9735" name="Changes" comment="Mini Etkinlik - Harmonik Ortalama">
+    <list default="true" id="aa1d206c-86e7-47d6-bae4-2851910e9735" name="Changes" comment="Mini Etkinlik - Girilen Sayıya En Yakın Büyük ve Küçük Sayıları Bulma v2">
       <change afterPath="$PROJECT_DIR$/src/Java101/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java101/GirilenSayiyaEnYakinBuyukKucukSayilar.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Java101/SwitchCaseAtmUygulamasi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java101/YildizlarlaBHarfiYazma.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -368,12 +368,24 @@
       <option name="project" value="LOCAL" />
       <updated>1700226155248</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="Mini Etkinlik - Girilen Sayıya En Yakın Büyük ve Küçük Sayıları Bulma">
+      <created>1700230823822</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1700230823822</updated>
+    </task>
+    <task id="LOCAL-00042" summary="Mini Etkinlik - Girilen Sayıya En Yakın Büyük ve Küçük Sayıları Bulma v2">
+      <created>1700230864889</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1700230864889</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Mini ödev eklendi . (Uçak Bileti Fiyatı Hesaplama)" />
-    <MESSAGE value="Mini ödev eklendi . (Çin Zodyağı Hesaplama)" />
     <MESSAGE value="Mini ödev eklendi . (Artık Yıl Hesaplama)" />
     <MESSAGE value="Mini ödev eklendi . (3 ve 4 e Bölünenlerin Hesaplanması)" />
     <MESSAGE value="Mini ödev eklendi . (Çift ve Dördün Katı Olan Sayıların Toplamı)" />
@@ -397,6 +409,8 @@
     <MESSAGE value="Pratik - BOKS MAÇI" />
     <MESSAGE value="Ödev - Maaş Hesaplayıcı" />
     <MESSAGE value="Mini Etkinlik - Harmonik Ortalama" />
-    <option name="LAST_COMMIT_MESSAGE" value="Mini Etkinlik - Harmonik Ortalama" />
+    <MESSAGE value="Mini Etkinlik - Girilen Sayıya En Yakın Büyük ve Küçük Sayıları Bulma" />
+    <MESSAGE value="Mini Etkinlik - Girilen Sayıya En Yakın Büyük ve Küçük Sayıları Bulma v2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Mini Etkinlik - Girilen Sayıya En Yakın Büyük ve Küçük Sayıları Bulma v2" />
   </component>
 </project>
